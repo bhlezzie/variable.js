@@ -1,0 +1,17 @@
+// Store your name
+let name = "Bhlezzie joy"
+
+// Store what you want to become in life\
+let whatDoYouWannaBecomeInYourLife = "programmer";
+
+//Store your gender
+let gender ="female";
+
+//Store your Twitter handle
+let twitterHandle ="@ezziedotcom";
+
+//log the variables to the console
+console.log("Name " + name);
+console.log("What do you want to become: " + whatDoYouWannaBecomeInYourLife);
+console.log("Gender: " + gender);
+console.log("Twitter Handle: " + twitterHandle);
